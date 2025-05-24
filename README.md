@@ -17,7 +17,7 @@ This project explores financial data across public companies to identify trends 
 
 This project helped me practice exploratory data analysis and improve how I use visualizations to tell a financial story.
 
-## 📷 Sapmle Visualization: 
+## 📷 Sample Visualization: 
 
 This line graph shows the trend of average company revenue over time based on the dataset.
 
